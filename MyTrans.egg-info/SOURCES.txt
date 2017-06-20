@@ -1,0 +1,9 @@
+setup.py
+MyTrans.egg-info/PKG-INFO
+MyTrans.egg-info/SOURCES.txt
+MyTrans.egg-info/dependency_links.txt
+MyTrans.egg-info/top_level.txt
+japTrans/__init__.py
+japTrans/parseCSV.py
+japTrans/sample.py
+japTrans/transCat.py
